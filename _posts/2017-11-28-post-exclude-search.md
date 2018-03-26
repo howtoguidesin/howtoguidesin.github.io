@@ -3,6 +3,9 @@ title: Exclude Post from Search Index
 date: 2017-11-28 00:00:00 Z
 categories:
 - Jekyll
+author_profile: false
+read_time: false
+share: false
 search: false
 last_modified_at: 2018-02-19 13:05:00 Z
 layout: single
