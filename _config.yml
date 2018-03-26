@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Guieds"
 description              : "This is Amazing Website You must visit"
 url                      : "http://www.howtoguides.in/"
-baseurl                  : "/"
+baseurl                  : #"/"
 repository               : "howtoguidesin/howtoguidesin.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
