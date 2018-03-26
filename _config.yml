@@ -22,7 +22,7 @@ name                     : "Guieds"
 description              : "This is Amazing Website You must visit"
 url                      : "http://www.howtoguides.in/"
 baseurl                  : "/"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "howtoguidesin/howtoguidesin.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -266,3 +266,10 @@ defaults:
       comments: # true
       share: true
       related: true
+   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true    
